@@ -11,9 +11,9 @@
 # import xlrd
 
 
-import openpyxl
-import xlrd
-import re
+# import openpyxl
+# import xlrd
+# import re
 from openpyxl import Workbook
 from openpyxl.styles import NamedStyle
 from datetime import datetime
